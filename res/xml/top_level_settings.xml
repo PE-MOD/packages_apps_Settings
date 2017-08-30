@@ -47,6 +47,14 @@
         android:fragment="com.android.settings.applications.AppAndNotificationDashboardFragment"/>
 
     <Preference
+        android:key="top_level_pixelgoodies"
+        android:title="@string/pixelgoodies_title"
+        android:summary="@string/pixelgoodies_activity_summary"
+        android:icon="@drawable/ic_homepage_pixelgoodies"
+        android:order="-95"
+        android:fragment="com.pe.pixelgoodies.PixelGoodiesSettings"/>
+
+    <Preference
         android:key="top_level_battery"
         android:title="@string/power_usage_summary_title"
         android:summary="@string/summary_placeholder"
