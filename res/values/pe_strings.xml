@@ -17,7 +17,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
     <!-- PixelGoodies -->
     <string name="pixelgoodies_title">PixelGoodies</string>
-    <string name="pixelgoodies_activity_summary">Home of the Sweets</string>
+    <string name="pixelgoodies_activity_summary">Pixelify Your Device</string>
 
     <!-- Back Gesture Height -->
     <string name="back_height_low_label">Full</string>
